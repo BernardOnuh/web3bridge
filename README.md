@@ -1,6 +1,6 @@
 # Web3Bridge Assesment Test
 
-##Project Title: Random Password Generator Script with tests
+## Project Title: Random Password Generator Script with tests
 
 ## Description
 A Random Password Generator script to generate random passwords of a specified length and strength, containing a mix of uppercase letters, lowercase letters, numbers, and special characters. This project includes writing at least six (6) test cases
